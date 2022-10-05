@@ -1,0 +1,215 @@
+drug,cluster-label
+(+)-camphor,45
+(s)-rasagiline,16
+acetazolamide,16
+acrivastine,8
+acyclovir,11
+agomelatine,16
+alendronate sodium,16
+alfuzosin hydrochloride,0
+allantoin,46
+allopurinol,19
+allopurinol riboside,19
+almotriptan,4
+alogliptin (benzoate),19
+amifampridine,17
+amisulpride,17
+anagrelide (hydrochloride),17
+antazoline,17
+aztreonam,7
+belumosudil,16
+benoxinate hydrochloride,34
+benzoic acid,16
+benzonatate,16
+betahistine hydrochloride,8
+bethanechol chloride,3
+bifonazole,16
+bosutinib,14
+bromocriptine (mesylate),5
+buspirone hydrochloride,4
+butenafine (hydrochloride),16
+cabergoline,5
+capmatinib,27
+capsaicin,16
+carbimazole,33
+carglumic acid,16
+carteolol hydrochloride,0
+cefaclor,7
+cefuroxime (sodium),7
+cefuroxime axetil,7
+chlorpropamide,9
+chlorzoxazone,16
+cimetidine,8
+cinacalcet,16
+cinnarizine,29
+clemastine (fumarate),8
+clidinium bromide,10
+clofibrate,16
+cromolyn (sodium),42
+cyclizine,8
+cycloserine (d),7
+cysteamine hydrochloride,16
+dapoxetine (hydrochloride),16
+darifenacin (hydrobromide),10
+dasabuvir,16
+deflazacort,16
+delavirdine (mesylate),16
+dextromethorphan hydrobromide,16
+diazoxide,16
+dicyclomine hydrochloride,41
+dimenhydrinate,8
+domperidone,17
+donepezil hydrochloride,2
+doxylamine succinate,8
+dydrogesterone,11
+eletriptan (hydrobromide),4
+elvitegravir,11
+enoxacin,11
+epinastine,8
+erlotinib (hydrochloride),2
+esmolol (hydrochloride),0
+etc-1002,30
+ethambutol (dihydrochloride),7
+ethambutol hydrochloride,7
+ethionamide,11
+ethylenediamine tetracetate tetra-ethanolamine,26
+etoricoxib,11
+eugenol,11
+famciclovir,11
+fampridine,36
+fexinidazole,47
+fexofenadine hydrochloride,8
+flunisolide,11
+furazolidone,2
+fusidic acid,16
+galanthamine,2
+gefitinib (zd1839),2
+gemfibrozil,2
+gliclazide,9
+glipizide,25
+gluconolactone,21
+glyburide,9
+gramicidin (gramicidin a shown),2
+guaiacol,31
+guaifenesin,48
+guanethidine,2
+hexylresorcinol,40
+hydroxyzine pamoate,17
+indinavir (sulfate),2
+inosine,2
+isosorbide dinitrate,2
+isosorbide mononitrate,2
+istradefylline,2
+l-cycloserine,35
+lemborexant,2
+levetiracetam,2
+lofexidine  hydrochloride,15
+lubiprostone,2
+lumacaftor,6
+mannitol,32
+mebendazole,2
+mebeverine hydrochloride,10
+mecamylamine hydrochloride,10
+meclizine hydrochloride,2
+mepenzolate bromide,10
+mesalamine,20
+metaproterenol,15
+metaxalone,44
+methazolamide,2
+methenamine,2
+methocarbamol,2
+mianserin hydrochloride,18
+miconazole nitrate,7
+moclobemide,18
+moxidectin,1
+moxonidine,1
+nalidixic acid,1
+naloxegol (oxalate),1
+naphazoline hydrochloride,15
+naratriptan (hydrochloride),4
+natamycin,18
+nefopam,11
+neostigmine bromide,2
+nifurtimox,18
+nitisinone,18
+nitrofurantoin,18
+nizatidine,8
+ondansetron,18
+orlistat,18
+orphenadrine citrate,10
+osilodrostat,11
+oxymetazoline hydrochloride,15
+palonosetron (hydrochloride),18
+papaverine hydrochloride,18
+parecoxib,11
+paritaprevir,18
+pergolide (mesylate),5
+phentolamine hydrochloride,0
+phenylephrine (hydrochloride),15
+phenylephrine hydrochloride,15
+pilocarpine nitrate,3
+pitolisant (hydrochloride),8
+praziquantel,37
+pretomanid,18
+probenecid,18
+probucol,18
+procyclidine hydrochloride,10
+propantheline bromide,10
+prucalopride (succinate),4
+pyrantel (tartrate),3
+pyrazinamide,18
+pyrimethamine,18
+ranolazine,18
+relugolix,18
+repaglinide,18
+revefenacin,18
+rilpivirine,18
+riluzole,18
+rimantadine hydrochloride,18
+rimegepant,18
+rizatriptan benzoate,4
+ropinirole (hydrochloride),5
+rucaparib (ag-014699 or pf-01367338) phosphate,18
+rufinamide,18
+safinamide,12
+saxagliptin,19
+selexipag,13
+sertaconazole (nitrate),13
+silodosin,0
+sodium picosulfate,43
+solifenacin (succinate),10
+stiripentol,13
+sulfacetamide,13
+sulfadiazine,39
+sulfamethizole,28
+sumatriptan,4
+tamsulosin,0
+tasimelteon,13
+tedizolid,13
+telotristat,6
+telotristat etiprate,6
+tepotinib (emd 1214063),6
+terbinafine hydrochloride,6
+tetrahydrozoline hydrochloride,15
+tezacaftor,6
+tiagabine (hydrochloride),13
+tiopronin,6
+tolazamide,9
+tolbutamide,9
+tolterodine (tartrate),10
+treprostinil,18
+triclabendazole,18
+trimethobenzamide hydrochloride,8
+umbralisib,23
+urea,18
+uridine,5
+uridine triacetate,22
+valacyclovir (hydrochloride),24
+valacyclovir hydrochloride,38
+varenicline,3
+venetoclax,18
+voriconazole,11
+voxelotor,18
+xylometazoline hydrochloride,15
+zileuton,18
+zolmitriptan,4
