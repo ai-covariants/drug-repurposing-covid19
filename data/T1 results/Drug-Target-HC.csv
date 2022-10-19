@@ -1,0 +1,439 @@
+cluster-label,drug
+0,ezetimibe
+0,zileuton
+0,telotristat
+0,telotristat etiprate
+0,tenofovir disoproxil
+0,tepotinib (emd 1214063)
+0,safinamide
+0,decitabine
+0,l-ascorbic acid
+0,lemborexant
+0,dapsone
+0,terbinafine hydrochloride
+0,cysteamine hydrochloride
+0,levamisole (hydrochloride)
+0,levetiracetam
+0,cycloserine (d)
+0,levocarnitine propionate (hydrochloride)
+0,rucaparib (ag-014699 or pf-01367338) phosphate
+0,lubiprostone
+0,tetrahydrozoline hydrochloride
+0,thiamine
+0,lumacaftor
+0,clidinium bromide
+0,mebendazole
+0,mebeverine hydrochloride
+0,tiagabine (hydrochloride)
+0,fostamatinib (r788)
+0,rivaroxaban
+0,inosine
+0,tazemetostat
+0,disulfiram
+0,selexipag
+0,fluoxetine hydrochloride
+0,fluorescein
+0,galanthamine
+0,gluconolactone
+0,fenofibric acid
+0,fenofibrate
+0,felodipine
+0,febuxostat
+0,glucosamine hydrochloride
+0,pretomanid
+0,eugenol
+0,etravirine
+0,etoricoxib
+0,chlorzoxazone
+0,ethambutol hydrochloride
+0,guaifenesin
+0,eplerenone
+0,guanethidine
+0,sofosbuvir
+0,enalaprilat (dihydrate)
+0,silibinin
+0,edoxaban
+0,dydrogesterone
+0,hesperidin
+0,hexylresorcinol
+0,tadalafil
+0,donepezil hydrochloride
+0,sertraline (hydrochloride)
+0,guaiacol
+0,meclizine hydrochloride
+0,cinacalcet
+0,metformin hydrochloride
+0,trimethoprim
+0,apixaban
+0,mepenzolate bromide
+0,anagrelide (hydrochloride)
+0,ondansetron
+0,pyrimethamine
+0,amodiaquine (dihydrochloride dihydrate)
+0,umbralisib
+0,palonosetron (hydrochloride)
+0,aminocaproic acid hydrochloride
+0,uridine
+0,vecuronium (bromide)
+0,aprepitant
+0,venetoclax
+0,allopurinol
+0,pyrazinamide
+0,prucalopride (succinate)
+0,papaverine hydrochloride
+0,parecoxib
+0,acyclovir
+0,pioglitazone hydrochloride
+0,zafirlukast
+0,pirfenidone
+0,acalabrutinib
+0,praziquantel
+0,(s)-rasagiline
+0,almotriptan
+0,triclabendazole
+0,stiripentol
+0,nicorandil
+0,butenafine (hydrochloride)
+0,reserpine
+0,bupivacaine hydrochloride
+0,miconazole nitrate
+0,capsaicin
+0,carbimazole
+0,carglumic acid
+0,nifurtimox
+0,moclobemide
+0,tirofiban (hydrochloride monohydrate)
+0,montelukast (sodium)
+0,metronidazole
+0,naloxegol (oxalate)
+0,benzonatate
+0,metolazone
+0,methocarbamol
+0,benoxinate hydrochloride
+0,bendroflumethiazide
+0,belumosudil
+0,rimegepant
+0,chloroquine phosphate
+0,azithromycin
+0,neostigmine bromide
+0,nicardipine (hydrochloride)
+1,oxymetazoline hydrochloride
+1,moxonidine
+1,xylometazoline hydrochloride
+1,naphazoline hydrochloride
+1,phentolamine hydrochloride
+2,estradiol
+2,estradiol cypionate
+2,estradiol benzoate
+2,estradiol (cypionate)
+2,estradiol valerianate
+3,amlodipine besylate
+3,isradipine
+3,nisoldipine
+4,naproxen
+4,ibuprofen piconol
+4,(s)-(+)-ibuprofen
+4,celecoxib
+4,acetaminophen
+5,voriconazole
+5,indinavir (sulfate)
+5,clarithromycin
+5,sulfamethizole
+5,darunavir
+5,delavirdine (mesylate)
+6,chlorothiazide
+6,hydrochlorothiazide
+6,chlorthalidone
+7,cimetidine
+7,nizatidine
+7,famotidine
+7,ranitidine (hydrochloride)
+8,chlorpropamide
+8,repaglinide
+8,glipizide
+8,tolazamide
+8,tolbutamide
+9,bromocriptine (mesylate)
+9,cabergoline
+9,pergolide (mesylate)
+9,ropinirole (hydrochloride)
+10,umeclidinium (bromide)
+10,glycopyrrolate
+11,pitolisant (hydrochloride)
+11,loratadine
+11,acrivastine
+11,fexofenadine hydrochloride
+11,betahistine hydrochloride
+11,ketotifen (fumarate)
+11,epinastine
+11,dimenhydrinate
+11,azelastine hydrochloride
+11,diphenhydramine hydrochloride
+11,doxylamine succinate
+11,clemastine (fumarate)
+11,antazoline
+11,promethazine hydrochloride
+11,hydroxyzine pamoate
+12,minoxidil hydrochloride
+12,minoxidil 
+13,carvedilol
+13,dobutamine (hydrochloride)
+13,atenolol
+13,propranolol hydrochloride (+/-)
+13,esmolol (hydrochloride)
+13,pindolol
+13,(s)-timolol (maleate)
+14,methylprednisolone
+14,betamethasone dipropionate
+14,mometasone furoate
+14,fluticasone (propionate)
+14,prednisolone
+14,hydrocortisone acetate
+14,hydrocortisone 17-butyrate
+14,deflazacort
+14,flunisolide
+15,alfuzosin hydrochloride
+15,rufinamide
+16,gefitinib (zd1839)
+16,erlotinib (hydrochloride)
+16,lidocaine hydrochloride
+17,solifenacin (succinate)
+17,pilocarpine nitrate
+17,propantheline bromide
+17,bethanechol chloride
+17,darifenacin (hydrobromide)
+17,tolterodine (tartrate)
+18,adenosine
+18,regadenoson
+19,nelfinavir
+19,ritonavir
+20,probucol
+20,oseltamivir (phosphate)
+21,ropivacaine
+21,rilpivirine
+21,ranolazine
+22,amoxicillin
+22,amoxicillin (sodium)
+23,cyproheptadine (hydrochloride)
+23,cyproheptadine hydrochloride
+24,furosemide
+24,bumetanide
+25,niacin
+26,spironolactone
+27,tasimelteon
+27,agomelatine
+27,ramelteon
+28,gemfibrozil
+28,clofibrate
+29,treprostinil
+29,ticagrelor
+29,prasugrel
+29,clopidogrel sulfate
+29,clopidogrel
+30,sildenafil citrate
+31,sulfadiazine
+31,indapamide
+31,urea
+32,cobicistat
+32,dolutegravir
+33,albuterol
+33,salmeterol
+33,metaproterenol
+33,carteolol hydrochloride
+34,rizatriptan benzoate
+34,sumatriptan
+34,zolmitriptan
+34,eletriptan (hydrobromide)
+34,naratriptan (hydrochloride)
+35,guanfacine (hydrochloride)
+35,guanfacine hydrochloride
+35,methyldopa
+36,doxazosin mesylate
+36,terazosin (hydrochloride dihydrate)
+37,triamterene
+38,acetazolamide
+38,methazolamide
+39,retinol
+40,isosorbide dinitrate
+40,isosorbide mononitrate
+41,hydrocortisone
+41,dexamethasone
+42,alogliptin (benzoate)
+42,sitagliptin
+42,linagliptin
+42,saxagliptin
+43,pancuronium (dibromide)
+44,verapamil (hydrochloride)
+45,amiloride hydrochloride
+46,nifedipine
+47,glyburide
+48,pentoxifylline
+49,clonidine hydrochloride
+49,clonidine (hydrochloride)
+49,prazosin hydrochloride
+50,indomethacin
+51,bosutinib
+52,diclofenac
+53,orlistat
+54,aminophylline
+55,acetylcysteine
+56,domperidone
+56,trimethobenzamide hydrochloride
+56,amisulpride
+56,buspirone hydrochloride
+57,aspirin
+58,mianserin hydrochloride
+59,tamoxifen (citrate)
+60,alendronate sodium
+61,melatonin
+62,probenecid
+63,olanzapine
+64,s-ruxolitinib (incb018424)
+64,ruxolitinib (incb018424)
+65,diazoxide
+66,phenelzine sulfate
+67,amantadine hydrochloride
+68,phenylephrine hydrochloride
+68,silodosin
+68,tamsulosin
+68,phenylephrine (hydrochloride)
+69,omeprazole
+69,pantoprazole (sodium)
+69,rabeprazole (sodium)
+69,lansoprazole
+70,mecamylamine hydrochloride
+70,varenicline
+71,amiodarone hydrochloride
+72,dipyridamole
+73,genistein
+74,riluzole
+75,biotin
+76,sucrose
+77,folic acid
+78,duvelisib (ipi-145_ ink1197)
+79,benzoic acid
+80,apremilast
+81,liothyronine (sodium)
+81,liothyronine
+82,azilsartan
+82,azilsartan medoxomil
+83,istradefylline
+84,progesterone
+85,vortioxetine
+86,levofloxacin
+86,enoxacin
+86,moxifloxacin hydrochloride
+86,ciprofloxacin
+87,dapoxetine (hydrochloride)
+88,dextromethorphan hydrobromide
+89,iloprost
+90,tenofovir alafenamide
+91,cefditoren (pivoxil)
+92,sulfacetamide
+93,cyclosporin a
+94,niacinamide
+95,chlorpheniramine (maleate)
+96,tedizolid
+97,paritaprevir
+98,artesunate
+99,glutamine (d)
+100,palmidrol [5mm]
+101,clindamycin (hydrochloride)
+102,theophylline
+103,cefepime (dihydrochloride monohydrate)
+104,mefloquine
+105,nitisinone
+106,bifonazole
+107,pyridostigmine bromide
+108,emtricitabine
+109,lopinavir
+110,mesalamine
+111,clindamycin hydrochloride
+112,cefuroxime axetil
+113,flurbiprofen
+114,allantoin
+115,sertaconazole (nitrate)
+116,tazobactam
+117,gramicidin (gramicidin a shown)
+118,amifampridine
+119,osilodrostat
+120,tezacaftor
+121,dasabuvir
+122,cyclizine
+123,cefaclor
+124,nefopam
+125,atracurium besylate
+126,rapamycin
+127,sodium picosulfate
+128,diroximel fumarate
+129,ethylenediamine tetracetate tetra-ethanolamine
+130,eicosapentaenoic acid
+131,natamycin
+132,gliclazide
+133,voxelotor
+134,relugolix
+135,fexinidazole
+136,ibuprofen
+137,cromolyn (sodium)
+138,tiopronin
+139,deferoxamine mesylate
+140,raltegravir
+141,torsemide
+142,dexamethasone acetate
+143,valacyclovir hydrochloride
+144,α-vitamin e
+145,elvitegravir
+146,cefuroxime (sodium)
+147,chlorhexidine dihydrochloride
+148,etc-1002
+149,furazolidone
+150,revefenacin
+151,ethambutol (dihydrochloride)
+152,atazanavir (sulfate)
+153,nitazoxanide
+154,hydralazine hydrochloride
+155,moxidectin
+156,ethynyl estradiol
+157,(r)-(-)-ibuprofen
+158,cinnarizine
+159,tramadol hydrochloride
+160,cetylpyridinium chloride
+161,valacyclovir (hydrochloride)
+162,fampridine
+163,pregabalin hydrochloride
+164,procyclidine hydrochloride
+165,allopurinol riboside
+166,fusidic acid
+167,clofazimine
+168,aztreonam
+169,d-α-tocopherol acetate
+170,pyrantel (tartrate)
+171,dicyclomine hydrochloride
+172,ethacrynic acid
+173,cyclosporine
+174,methenamine
+175,hydrocortisone hemisuccinate
+176,ethionamide
+177,metaxalone
+178,vitamin k1
+179,piperacillin (sodium)
+180,tenofovir
+181,nicardipine hydrochloride
+182,rimantadine hydrochloride
+183,ledipasvir
+184,mannitol
+185,l-cycloserine
+186,atovaquone
+187,itraconazole hydrochloride
+188,lofexidine  hydrochloride
+189,tafenoquine (succinate)
+190,beclometasone dipropionate
+191,sodium salicylate
+192,orphenadrine citrate
+193,nalidixic acid
+194,(+)-camphor
+195,sulfamethoxazole
+196,uridine triacetate
+197,famciclovir
+198,capmatinib
+199,nitrofurantoin
