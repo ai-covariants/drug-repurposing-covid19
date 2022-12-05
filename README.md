@@ -2,7 +2,11 @@
 
 Machine learning framework to systematicall downselect drugs from a set of FDA/TGA approved candidates for COVID-19 drug repurposing. 
 
-## Code Files 
+## Data 
+
+Data for this study was taken from CoviRx database. (https://covirx.org/)
+
+## Code
 
 ### Tier 1 clustering
 
@@ -19,3 +23,9 @@ In this step, graph eutoencoder was applied on the drug-drug-relationship graph 
 ### Tier 2 clustering
 
 Clustering algorithms are applied to latent vector embeddings to get final drug clusters which are then qualitatively analysed to suggest top-15 performing compounds for COVID-19 drug repurposing. 
+
+## Results 
+
+- Hierarchical clustering performed better than k-means and spectral for data under consideration. 
+- Graph autoencoders out-performed variational graph autoencoder 
+- Out of 485 drugs, 15 drugs were selected and ranked for COVID-19 drug repurposing experiments. 
