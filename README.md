@@ -2,10 +2,6 @@
 
 Machine learning framework to systematicall downselect drugs from a set of FDA/TGA approved candidates for COVID-19 drug repurposing. 
 
-## Objective 
-
-To develop an unsupervised machine-learning framework that features graph machine learning and clustering to recommend  drugs for COVID-19  drug repurposing.
-
 ## Code Files 
 
 ### Tier 1 clustering
