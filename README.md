@@ -6,9 +6,9 @@ Machine learning framework to systematicall downselect drugs from a set of FDA/T
 
 Data for this study was taken from CoviRx database. (https://covirx.org/)
 
-https://github.com/ai-covariants/covirx/tree/main/CoviRx (website source code)
-https://github.com/ai-covariants/covirx/blob/main/CoviRx/clinical_trial_links.csv  (data)
-https://github.com/ai-covariants/covirx/blob/main/CoviRx/downselected_drugs.csv  (data)
+* https://github.com/ai-covariants/covirx/tree/main/CoviRx (website source code)
+* https://github.com/ai-covariants/covirx/blob/main/CoviRx/clinical_trial_links.csv  (data)
+* https://github.com/ai-covariants/covirx/blob/main/CoviRx/downselected_drugs.csv  (data)
 
 
 
